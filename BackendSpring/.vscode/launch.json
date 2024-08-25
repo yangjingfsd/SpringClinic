@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-SpringclinicbackendApplication<springclinicbackend>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "ylab.springclinicbackend.SpringclinicbackendApplication",
+            "projectName": "springclinicbackend",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
